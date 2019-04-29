@@ -4,4 +4,4 @@
 # YOUR CODE HERE
 import math
 
-print(math.pow(65536, 2))
+print(math.pow(2, 65536))
