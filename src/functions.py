@@ -6,8 +6,8 @@ num = int(num)
 # YOUR CODE HERE
 def is_even(num):
     if num % 2 == 0:
-        return True
         print("Even")
+        return True
     else:
         print("Odd")
 
